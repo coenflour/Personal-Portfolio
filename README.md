@@ -4,7 +4,7 @@ Welcome to my personal portfolio website!
 This site showcases my projects, skills, and experience, and serves as a hub for my online presence.
 
 ## 🚀 Live Demo
-[**Visit My Portfolio**](https://nadifah-portfolio.netlify.app)
+**https://nadifah-portfolio.netlify.app**
 
 ---
 
