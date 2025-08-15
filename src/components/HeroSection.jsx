@@ -19,6 +19,7 @@ export const HeroSection = () => {
             </span>
             <span className="text-gradient ml-2 opacity-0 animate-fade-in-delay-2">
               {" "}
+              <br />
               Aulia Rahmani
             </span>
           </h1>
@@ -37,7 +38,7 @@ export const HeroSection = () => {
         </div>
         <div className="relative flex items-center justify-center mt-8 md:mt-0">
   {/* Orb Wrapper - slightly bigger than image */}
-  <div className="absolute z-0 w-[280px] h-[280px] sm:w-[320px] sm:h-[320px] md:w-[400px] md:h-[400px]">
+  <div className="absolute z-15 w-[280px] h-[280px] sm:w-[320px] sm:h-[320px] md:w-[400px] md:h-[400px]">
             <Orb
               hoverIntensity={0.5}
               rotateOnHover={true}
