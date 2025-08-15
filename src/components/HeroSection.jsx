@@ -6,7 +6,7 @@ export const HeroSection = () => {
   return (
     <section
       id="hero"
-      className="relative min-h-screen flex flex-col items-center justify-center px-4 sm:px-8 md:px-20 pt-5"
+      className="relative min-h-screen flex flex-col items-center justify-center px-4 sm:px-8 md:px-20 pt-12"
     >
       <div className="container max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-2 items-center gap-8 md:gap-12 z-10">
         {/* LEFT: Text Section */}
